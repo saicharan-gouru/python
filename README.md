@@ -5,3 +5,5 @@ Daily I will learn,solve and code few scenarios in python and I will push them i
 30-04-2021 = BubbuleSort1.py,BubbleSort2.py,PrimeOrNot.py
 
 04-05-2021 = RevOfString.py,RevOfNumber.py,Palindrome.py
+
+06-05-2021 = stack.py
