@@ -6,4 +6,6 @@ Daily I will learn,solve and code few scenarios in python and I will push them i
 
 04-05-2021 = RevOfString.py,RevOfNumber.py,Palindrome.py
 
-06-05-2021 = stack.py
+06-05-2021 = Stack.py
+
+10-05-2021 = ArmstrongOrNot.py
