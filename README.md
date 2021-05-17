@@ -9,3 +9,7 @@ Daily I will learn,solve and code few scenarios in python and I will push them i
 06-05-2021 = [Stack.py](Stack.py)
 
 10-05-2021 = [ArmstrongOrNot.py](ArmstrongOrNot.py)
+
+15-05-2021 = [FibMemberOrNot.py](FibMemberOrNot.py)
+
+17-05-2021 = [HCF&LCM.py](HCF&LCM.py)
