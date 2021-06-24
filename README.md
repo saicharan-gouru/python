@@ -16,4 +16,4 @@ In my free time, I will learn, solve and code few scenarios in python and I will
 
 23-06-2021 = [RomantoInteger.py](RomantoInteger.py),[AlphabeticOrderOfGivenString.py](AlphabeticOrderOfGivenString.py)
 
-24-06-2021 = [Pangram.py](Pangram.py)
+24-06-2021 = [PangramorNot.py](PangramorNot.py)
