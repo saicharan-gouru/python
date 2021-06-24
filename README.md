@@ -15,3 +15,5 @@ In my free time, I will learn, solve and code few scenarios in python and I will
 17-05-2021 = [HCF&LCM.py](HCF&LCM.py)
 
 23-06-2021 = [RomantoInteger.py](RomantoInteger.py),[AlphabeticOrderOfGivenString.py](AlphabeticOrderOfGivenString.py)
+
+24-06-2021 = [Pangram.py](pangram.py)
